@@ -1,0 +1,81 @@
+a:link{
+  color:#FFFFFF;
+}
+a:visited{
+  color:#FFFFFF;
+}
+a:hover{
+  color:#FFFFFF;
+}
+a:focus{
+  color:#FFFFFF;
+}
+a:active{
+  color:#FFFFFF;
+}
+.navbox {
+  background-color: #3A3C3D;
+  height: 100px;
+  width: 100%;
+}
+ul {
+  margin-right: 40px;
+}
+li {
+  float: right;
+  display: inline;
+  border-radius: 0px 0px;
+  margin-top: -50px;
+  padding: 20px;
+  background-color: #000000;
+}
+.brand {
+  float: left;
+  color: #809692;
+  font-family: sans-serif;
+}
+.slogan {
+  float: left;
+  margin-top: 20px;
+  clear: both;
+  margin-top: -25px;
+  color: #809692;
+  font-family: sans-serif;
+}
+.main {
+  height: 300px;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: 70px;
+}
+.pic {
+  margin-left: 600px;
+  margin-top: -250px;
+}
+.next {
+  display: inline-block;
+  height: 300px;
+  width: 250px;
+  padding: 50px;
+  margin-left: 75px;
+  font-family: sans-serif;
+}
+.navbox2 {
+  height: 100px;
+  width: 100%;
+  background-color: #3A3C3D;
+}
+p {
+  font-family: sans-serif;
+}
+h3.brand {
+  margin-top: 30px;
+}
+.k1 {
+  float: left;
+}
+a.read {
+  color: #FF9033;
+  text-align: right;
+  font-size: 15px;
+}
